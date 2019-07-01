@@ -1,0 +1,22 @@
+{
+  "name": "gh-page-test-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/gh-page-test-stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/gh-page-test-stuff/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/gh-page-test-stuff#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
